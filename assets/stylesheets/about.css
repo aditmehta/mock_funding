@@ -5,7 +5,8 @@
   background-size: cover; }
   #about .xyz {
     color: #FFFFFF;
-    padding-left: 2.5em; }
+    padding-left: 2.5em;
+    padding-top: 2em; }
   #about a, #about a:hover {
     background-color: #e7ad4a;
     color: #FFF;
@@ -19,6 +20,13 @@
   #about .text {
     color: #FFFFFF;
     padding-left: 4.7em;
+    padding-top: 3.5em;
+    width: 40em;
+    text-align: left; }
+  #about .body {
+    color: #FFFFFF;
+    padding-left: 4.7em;
+    padding-top: 2em;
     width: 40em;
     text-align: left; }
   #about .picture {

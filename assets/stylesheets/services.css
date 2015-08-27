@@ -5,28 +5,14 @@
   #services .title {
     text-align: center;
     margin-top: 3em;
-    color: #799bc0; }
+    color: #bd9438; }
   #services .first {
     padding-right: 4em; }
-  #services .second {
-    padding-left: 3em; }
-  #services .fa-wrench {
-    padding: 25 170;
-    color: #f6c05c; }
-  #services .fa-shopping-cart {
-    padding: 25 0 0 75;
-    color: #719ec8; }
-  #services .fa-clone {
-    padding: 25 170;
-    color: #719ec8; }
-  #services .fa-line-chart {
-    padding: 25 0 0 75;
-    color: #719ec8; }
-  #services .fa-tachometer {
-    padding: 25 170;
-    color: #719ec8; }
-  #services .fa-globe {
-    padding: 25 0 0 75;
-    color: #719ec8; }
+  #services .fa-heart {
+    padding-left: 27em;
+    padding-top: 1.7em;
+    color: #bd9438; }
+  #services .last {
+    padding-bottom: 2.5em; }
 
 /*# sourceMappingURL=services.css.map */
