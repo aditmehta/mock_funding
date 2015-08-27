@@ -10,27 +10,3 @@ body {
   transform: translateY(-50%);
 }
 
-nav.navbar-default {
-  &.affix {
-    background-color: #6f9eca;
-  }
-
-  &.affix-top {
-    background-color: transparent;
-  }
-}
-
-
-nav.navbar-default {
-  background-color: transparent;
-  border-bottom: transparent;
-
-.navbar-nav>li>a {
-  color: white;
-    padding-right: 5em;
-&.extra{
-    padding-right: 1em;
-}
-}
-
-}
